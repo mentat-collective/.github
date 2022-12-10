@@ -21,6 +21,7 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain:
 - [Functional Differential Geometry](https://github.com/mentat-collective/fdg-book)
 - [SICM Exercises in Scheme](https://github.com/mentat-collective/sicm-scheme-exercises)
 - [SICM Exercises in Clojure](https://github.com/mentat-collective/sicm-clj-exercises)
+- [Docker containers for MIT Scheme & Mechanics](https://github.com/mentat-collective/mit-scheme-docker)
 
 ### Foundational Code
 
