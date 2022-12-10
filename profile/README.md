@@ -14,6 +14,7 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain:
 - [emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 - [Road to Reality Essays](https://github.com/mentat-collective/road-to-reality)
 - [Notebook template](https://github.com/mentat-collective/notebook-template)
+- [Clerk utilities](https://github.com/mentat-collective/clerk-utils)
 
 ### Executable Textbooks
 
