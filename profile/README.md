@@ -13,6 +13,7 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain:
 - [sicmutils](https://github.com/sicmutils/sicmutils), soon to become [emmy](https://github.com/mentat-collective/emmy)
 - [emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 - [Road to Reality Essays](https://github.com/mentat-collective/road-to-reality)
+- [Notebook template](https://github.com/mentat-collective/notebook-template)
 
 ### Executable Textbooks
 
