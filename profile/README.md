@@ -27,3 +27,5 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain:
 ### Foundational Code
 
 - [mathbox](https://github.com/unconed/mathbox)
+- [shadergraph](https://github.com/unconed/shadergraph)
+- [threestrap](https://github.com/unconed/threestrap)
