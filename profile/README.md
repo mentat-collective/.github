@@ -19,6 +19,9 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain:
 - [Structure and Interpretation of Classical Mechanics](https://github.com/mentat-collective/sicm-book) and [exercises](https://github.com/mentat-collective/sicm-exercises)
 - [Functional Differential Geometry](https://github.com/mentat-collective/fdg-book)
 
+- [SICM Exercises in Scheme](https://github.com/mentat-collective/sicm-scheme-exercises)
+- [SICM Exercises in Clojure](https://github.com/mentat-collective/sicm-clj-exercises)
+
 ### Foundational Code
 
 - [mathbox](https://github.com/unconed/mathbox)
