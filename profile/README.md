@@ -7,6 +7,7 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain:
 - [jsxgraph.cljs](https://github.com/mentat-collective/jsxgraph.cljs)
 - [mathbox.cljs](https://github.com/mentat-collective/mathbox.cljs)
 - [mathlive.cljs](https://github.com/mentat-collective/mathlive.cljs)
+- [usegpu.cljs](https://github.com/mentat-collective/usegpu.cljs)
 
 ### Emmy / SICMUtils
 
@@ -25,6 +26,8 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain:
 - [Docker containers for MIT Scheme & Mechanics](https://github.com/mentat-collective/mit-scheme-docker)
 
 ### Foundational Code
+
+Maintaining:
 
 - [mathbox](https://github.com/unconed/mathbox)
 - [shadergraph](https://github.com/unconed/shadergraph)
