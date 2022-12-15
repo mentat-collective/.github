@@ -9,13 +9,17 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain:
 - [mathlive.cljs](https://github.com/mentat-collective/mathlive.cljs)
 - [usegpu.cljs](https://github.com/mentat-collective/usegpu.cljs)
 
+### Reagent, Clerk etc
+
+- [leva.cljs](https://github.com/mentat-collective/leva.cljs)
+- [Clerk utilities](https://github.com/mentat-collective/clerk-utils)
+
 ### Emmy / SICMUtils
 
 - [sicmutils](https://github.com/sicmutils/sicmutils), soon to become [emmy](https://github.com/mentat-collective/emmy)
 - [emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 - [Road to Reality Essays](https://github.com/mentat-collective/road-to-reality)
 - [Notebook template](https://github.com/mentat-collective/notebook-template)
-- [Clerk utilities](https://github.com/mentat-collective/clerk-utils)
 
 ### Executable Textbooks
 
