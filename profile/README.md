@@ -1,6 +1,12 @@
 # Hi there 👋
 
-Welcome to the Mentat Collective! Here are some of the projects we maintain:
+Welcome to the Mentat Collective! Here are some of the projects we maintain, and interesting links:
+
+- If you're interested in supporting this work, [Github Sponsors](https://github.com/sponsors/sritchie)
+- [Road to Reality Substack](https://roadtoreality.substack.com/)
+- [Trello work tracker](https://trello.com/b/x3Z275Ol/open-source)
+
+## Open Source
 
 ### Visual Math
 
