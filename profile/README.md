@@ -13,7 +13,8 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain, and
 - [jsxgraph.cljs](https://github.com/mentat-collective/jsxgraph.cljs)
 - [mathbox.cljs](https://github.com/mentat-collective/mathbox.cljs)
 - [mathlive.cljs](https://github.com/mentat-collective/mathlive.cljs)
-- [usegpu.cljs](https://github.com/mentat-collective/usegpu.cljs)
+- [mafs.cljs](https://github.com/mentat-collective/mafs.cljs)
+- [usegpu.cljs](https://github.com/mentat-collective/usegpu.cljs) (speculative, not yet working)
 
 ### Reagent, Clerk etc
 
