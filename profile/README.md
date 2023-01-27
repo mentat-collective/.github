@@ -24,8 +24,10 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain, and
 
 ### Emmy / SICMUtils
 
-- [sicmutils](https://github.com/sicmutils/sicmutils), soon to become [emmy](https://github.com/mentat-collective/emmy)
+- [Emmy computer algebra system](https://github.com/mentat-collective/emmy)
+- [sicmutils](https://github.com/sicmutils/sicmutils)
 - [emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
+- [emmy-mathlive](https://github.com/mentat-collective/emmy-mathlive) (coming soon)
 - [Road to Reality Essays](https://github.com/mentat-collective/road-to-reality)
 - [Notebook template](https://github.com/mentat-collective/notebook-template)
 
