@@ -21,6 +21,7 @@ Welcome to the Mentat Collective! Here are some of the projects we maintain, and
 - [leva.cljs](https://github.com/mentat-collective/leva.cljs)
 - [Clerk utilities](https://github.com/mentat-collective/clerk-utils)
 - [Template for Clerk with custom CLJS](https://github.com/nextjournal/clerk-cljs-demo)
+- [Awesome-Clerk](https://github.com/mentat-collective/awesome-clerk) list of Clerk notebooks, plugins and resources
 
 ### Emmy / SICMUtils
 
